@@ -1,0 +1,3 @@
+[submodule "Some repository"]
+	path = Some repository
+	url = https://github.com/AndrewRyzhikov/labwork2
